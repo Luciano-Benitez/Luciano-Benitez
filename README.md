@@ -1,4 +1,4 @@
-<h1 align="center">Hola 🖐, soy Luciano Benítez</h1>
+<h1 align="center">Luciano Benítez - Full Stack Developer</h1>
 <h3 align="center">Soy Full stack developer de la academia Henry.com con preferencia de trabajo hacia el área backend.
 Me gusta trabajar con Express Js, Sequelize y PostgreSQL, como así también con Apis externas para manipular información.
 </h3 >
